@@ -26,8 +26,6 @@ then you can create a shortcut and place it in your startup folder.
 * Hat tip to Shaun Webb on Stackoverflow.
 [Starting programs on multiple desktops in powershell in windows 10](http://stackoverflow.com/a/33271721)
 
-*[InputSimulator.dll](https://inputsimulator.codeplex.com/)
-
 ## License
 
 This project is licensed under the MIT License  
