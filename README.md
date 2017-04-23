@@ -17,7 +17,7 @@ Then simply run VirtualDesks.ps1 with power shell
 
 You can make the PowerShell script run by simply double clicking on VirtualDesks.ps1 by changing a Registry Key :3
 
-Refer to [Edit Registry Key to Open PowerShell on Double click](http://stackoverflow.com/questions/10137146/is-there-any-way-to-make-powershell-script-work-by-double-clicking-ps1-file)
+Refer to [Edit Registry Key to Open PowerShell on Double click](http://stackoverflow.com/a/20623597)
 
 then you can create a shortcut and place it in your startup folder.
 
