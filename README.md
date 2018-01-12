@@ -1,4 +1,4 @@
-# Run In Virtual Desktops
+# Run programs in multiple windows at once
 
 The project uses PowerShell to open multiple virtual desktops on windows 10 and allows user to run individual programs on each virtual desktop automatically.
 
